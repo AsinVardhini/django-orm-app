@@ -49,6 +49,9 @@ admin.site.register(Patient_detail,Patient_detailAdmin)
 
 ![image](https://user-images.githubusercontent.com/119417735/230150714-e8ce5d68-1a0b-496c-a929-9202e8d00967.png)
 
+![image](https://user-images.githubusercontent.com/119417735/230271063-7479eeac-7a2c-42f6-afac-d59938708e75.png)
+
+
 
 ## RESULT
 Thus a Django application to store and retrieve data from a database using Object Relational Mapping(ORM) is developed.
